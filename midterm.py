@@ -7,7 +7,7 @@ class Laser(Sprite):
     def __init__(self, game):
         super().__init__()
         self.game = game
-        . . .       # rest of implementation
+        # . . . -- rest of implementation
 
 
 """ (25 pts) Write the code or pseudo-code in Python for the Ship class """
